@@ -1,4 +1,4 @@
-## [Backend](https://github.com/justinRhuebottom/drf_shoestore).
+## [Backend Repository](https://github.com/justinRhuebottom/drf_shoestore)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
